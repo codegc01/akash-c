@@ -1,0 +1,2 @@
+# akash-c
+ninja technique
