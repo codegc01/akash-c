@@ -7,6 +7,6 @@ void main()
 	printf("Enter celsius : ");
 	scanf("%f",&c);
 	f = ((c*9)/5)+32;
-	printf("\nfahrenheit : %.2f",b);
+	printf("\nfahrenheit : %.2f",f);
 	getch();
 }
