@@ -31,6 +31,7 @@ void main()
 		printf("\n********************************************************************************");
 		printf("\n\t\t\t\t    PRESENTED BY AKASH DABHI AND BURHAN MAKDA...");
 		printf("\n\n\n0.EXIT\n1.START");
+                printf("\nEnter only 0 & 1.");
 		printf("\n\n	....  ");
 		scanf("%d",&o);
 	switch(o)
